@@ -1,9 +1,9 @@
 class BooksController {
-    constructor(Books) {
-        this.Books = Books;
-    }
+  constructor(Books) {
+    this.Books = Books;
+  }
 
-    getAll() {
-        
-    }
+  getAll() {
+
+  }
 }
